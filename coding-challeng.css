@@ -1,0 +1,49 @@
+body{
+  background-image: url("sfondo.jpg");
+  background-size: 1200px;
+}
+.grande-contaier{
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.container{
+  width: 600px;
+  margin: auto;
+}
+.immagine{
+  text-align: center;
+}
+img{
+  width: 300px;
+}
+h1{
+  color: #00ea38;
+  text-align: center;
+}
+.pulsanti{
+  background-color: #00ea38;
+  text-align: center;
+}
+.GINO{
+  display: inline-block;
+}
+.gino22{
+  font-size: 30px;
+}
+.distanza{
+  display: inline-block;
+}
+.rettangolo-arancione{
+  background-color: orange;
+  width: 280px;
+  height: 25px;
+}
+.rettangolo-verde{
+  background-color: #00ea38;
+  width: 450px;
+  height: 25px;
+}
+.rettangolo-rosso{
+  background-color: red;
+  width: 100px;
+  height: 25px;
+}
